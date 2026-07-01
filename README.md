@@ -10,6 +10,8 @@ This repository contains my solutions to LeetCode problems.
 
 \- arrays/
 
+\- math
+
 \- strings/
 
 \- dp/
